@@ -32,7 +32,7 @@ if token:
     # Connect to AWS
     # aws_session = connect_to_aws(aws_access_key, aws_secret_key, aws_region)
 
-    # Example: List all S3 buckets in the account
+    # Example: List all S3 buckets in the account 
     s3_client = session.client("s3")
     response = s3_client.list_buckets()
 

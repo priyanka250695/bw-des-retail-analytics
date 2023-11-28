@@ -1,15 +1,9 @@
 import requests
 
 vault_url = "http://127.0.0.1:8200"
-<<<<<<< HEAD
 role_id = "1e490c5c-467b-02dd-ea11-bbf9229446dc"
 secret_id = "daa278f2-3d73-19e1-7961-314be82ccf70"
 secret_path = "secret/data/aws"
-=======
-role_id = "259ac15c-cb2b-6f65-c02c-892fafa57e34"
-secret_id = "042053f0-7eb7-f6c6-cdbc-e6a91271edad"
-secret_path = "secret/data/snow"
->>>>>>> 8c9b8899ec27a980a4109d21ddf48fb38ad07655
 
 class getVaultCred:
 
