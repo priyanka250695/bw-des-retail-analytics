@@ -1,0 +1,6 @@
+{
+"vault_url": "http://127.0.0.1:8200",
+"role_id": "1e490c5c-467b-02dd-ea11-bbf9229446dc",
+"secret_id": "344de1f2-b7dd-41f3-03bb-6a1e80fb631c",
+"secret_path": "secret/data/aws"
+}
